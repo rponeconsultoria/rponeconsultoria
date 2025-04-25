@@ -1,33 +1,38 @@
-# 🎮 Análise de Mercado - Games
+# 📁 RP One | Portfólio de Projetos
 
-Este repositório contém um notebook desenvolvido pela **RP One Consultoria** para análise de mercado no setor de **games**, utilizando técnicas de **Análise de Dados** com foco em visualizações e insights estratégicos.
+Bem-vindo ao repositório oficial de portfólio da **RP One Consultoria**!
 
-📊 O objetivo é explorar tendências, comportamentos e oportunidades usando dados reais e ferramentas como **Python, pandas, seaborn** e outras bibliotecas de análise.
-
----
-
-## 📘 Acesse o notebook
-
-- [Visualizar no Google Colab](https://colab.research.google.com/gist/rponeconsultoria/009dcdd147496d71a25de3700993d6a4/an-lise-mercado-games.ipynb)
+Este espaço foi criado para reunir e compartilhar os projetos desenvolvidos por **Rhyan Pablo**, com foco em soluções personalizadas para empresas que desejam transformar seus processos com **automação, inteligência artificial e integração de sistemas**.
 
 ---
 
-## 🔍 Tecnologias utilizadas
+## ✨ Propósito
 
-- Python
-- Google Colab
-- Pandas
-- Matplotlib / Seaborn
-- Análise Exploratória de Dados (EDA)
+Este portfólio tem como objetivo:
 
----
-
-## 👨‍💼 Sobre a RP One Consultoria
-
-🚀 **RP One Consultoria**  
-Soluções inteligentes em **Inteligência Artificial**, **Análise de Dados** e **Automação** para empresas que buscam escalar com eficiência e inteligência operacional.
-
-🌐 [LinkedIn](https://www.linkedin.com/in/rp-one-04820a358/)
+- Documentar os projetos desenvolvidos na prática;
+- Mostrar a aplicação real de tecnologias voltadas à eficiência operacional;
+- Servir como vitrine técnica para clientes e parceiros;
+- Facilitar o acompanhamento da evolução de cada solução.
 
 ---
 
+## 🛠 Tecnologias e Abordagens
+
+Os projetos apresentados aqui envolvem:
+
+- 🧠 **IA e RAG** (Retrieval-Augmented Generation)
+- 🤖 **Automações com JavaScript, Google Apps Script, Python**
+- 🔗 **Integrações com APIs (WhatsApp, Google, CRMs, etc.)**
+- 📊 **Análises de Dados e Visualizações**
+- 🗃 **Processamento de Linguagem Natural (NLP/PLN)**
+- 🏭 **Soluções voltadas para logística, agro, indústria, abastecimento marítimo, e mais**
+
+---
+
+## 📂 Estrutura
+
+Cada diretório ou notebook deste repositório contém:
+
+- Contexto e objetivo do projeto
+- Código-fonte
