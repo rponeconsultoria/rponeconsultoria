@@ -9,7 +9,21 @@ Minha primeira experiência prática foi na **Mednet**, realizando extrações d
 
 ## 📊 O que eu faço
 
-Desde 2021, venho me aprofundando em **Data Analysis**, com foco em **modelagem de dados** e **inteligência preditiva**. Ao longo dessa jornada, desenvolvi domínio nas seguintes ferramentas e tecnologias:
+Desde 2021, venho me dedicando intensamente ao estudo e aplicação prática de Data Analysis e Inteligência Artificial, com ênfase em análise de dados e automação de processos. Durante essa jornada, aprofundei minhas bases teóricas e práticas em áreas fundamentais como Machine Learning, Análise Preditiva, Python e LangChain.
+
+Esse aprofundamento me proporcionou domínio e experiência nas seguintes ferramentas e tecnologias:
+
+**Python:** para desenvolvimento de scripts, automações, análise e modelagem de dados.
+
+**Machine Learning:** implementação de modelos de aprendizado supervisionado e não supervisionado para soluções preditivas e de classificação.
+
+**Análise Preditiva:** construção de modelos e dashboards para antecipar tendências e apoiar a tomada de decisão.
+
+**LangChain:** desenvolvimento de agentes de IA inteligentes, integração de LLMs com bases de dados e criação de fluxos complexos de automação cognitiva.
+
+**SQL e Bancos de Dados:** consulta, manipulação e estruturação de dados para análises e integrações.
+
+**Automação de Processos:** utilizando APIs, workflows e scripts para reduzir tarefas manuais e aumentar a eficiência operacional.
 
 ---
 
